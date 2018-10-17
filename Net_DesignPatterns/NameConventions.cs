@@ -33,7 +33,5 @@ namespace Net_DesignPatterns
         //   -Kivéve bit mezős enumok
         //17.-Ne adj típust az enumoknak, mert zavart okozhat a működésben, ha tényleges típusokra és értékeket támaszkodik (pl.: public enum Direction : long)
         //18.-Ne egészítsd ki az enum nevét + "Enum" -al (pl.: colorsEnum)
-
-
     }
 }
