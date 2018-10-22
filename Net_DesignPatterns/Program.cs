@@ -10,8 +10,6 @@ namespace Net_DesignPatterns
     class Program
     {
 
-        public static extern void asd();
-
         static void Main(string[] args)
         {
             Console.WriteLine("-- Design Patterns --");

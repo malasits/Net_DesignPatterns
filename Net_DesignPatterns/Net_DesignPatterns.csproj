@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="CreationalPatterns\AbstractFactory.cs" />
     <Compile Include="Definitions.cs" />
+    <Compile Include="ForeignWords.cs" />
     <Compile Include="NameConventions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

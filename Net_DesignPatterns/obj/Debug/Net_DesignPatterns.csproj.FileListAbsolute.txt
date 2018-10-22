@@ -1,7 +1,7 @@
 G:\Programing\C#\Net_DesignPatterns\Net_DesignPatterns\bin\Debug\Net_DesignPatterns.exe.config
 G:\Programing\C#\Net_DesignPatterns\Net_DesignPatterns\bin\Debug\Net_DesignPatterns.exe
 G:\Programing\C#\Net_DesignPatterns\Net_DesignPatterns\bin\Debug\Net_DesignPatterns.pdb
-G:\Programing\C#\Net_DesignPatterns\Net_DesignPatterns\obj\Debug\Net_DesignPatterns.csprojAssemblyReference.cache
 G:\Programing\C#\Net_DesignPatterns\Net_DesignPatterns\obj\Debug\Net_DesignPatterns.csproj.CoreCompileInputs.cache
 G:\Programing\C#\Net_DesignPatterns\Net_DesignPatterns\obj\Debug\Net_DesignPatterns.exe
 G:\Programing\C#\Net_DesignPatterns\Net_DesignPatterns\obj\Debug\Net_DesignPatterns.pdb
+G:\Programing\C#\Net_DesignPatterns\Net_DesignPatterns\obj\Debug\Net_DesignPatterns.csprojAssemblyReference.cache
